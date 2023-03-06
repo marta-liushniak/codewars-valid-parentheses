@@ -1,4 +1,4 @@
-Write a method that takes a String of parentheses, and determines if the order of the parentheses is valid. The function should return true if the String is valid, and false if it's invalid.
+Write a method that takes a String of parentheses, and determines if the order of the parentheses is valid. The function should return **true** if the String is valid, and **false** if it's invalid.
 
 Examples:  
 `"()"`              - output:  `true`  
